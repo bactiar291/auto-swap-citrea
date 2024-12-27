@@ -16,6 +16,10 @@ lalu instalasi semua paket yang di perlukan dengan perintah
 ```bash
 npm install
 ```
+file tambahan wajib agar berfungsi 
+```bash
+npm install @uniswap/v2-periphery
+```
 setelah semua paket sudah terinstal semua cukup
 jalankan dengan perintah 
 ```bash
